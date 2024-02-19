@@ -1,1 +1,1 @@
-## 自用openwrt，竞斗云2.0 128M分区版本，默认argonone主题
+## 自用openwrt，斐讯K2A5，默认argonone主题
